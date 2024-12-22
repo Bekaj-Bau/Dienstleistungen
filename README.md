@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="de">
 <head>
     <meta charset="UTF-8">
@@ -119,7 +119,7 @@
         <h2>Kontakt</h2>
         <p>Adresse: Mainstr. 6, 63538 Großkrotzenburg</p>
         <p>Telefon: 0176 20283482</p>
-        <p>E-Mail: info@bekaj-bau.de</p>
+        <p>E-Mail: bekajbau@gmail.com</p>
         <h3>Schreiben Sie uns:</h3>
         <form action="#" method="post">
             <input type="text" name="name" placeholder="Ihr Name" required>
